@@ -72,7 +72,7 @@
 .text-right{text-align: right;}
 .table-fact .table>thead>tr>th, .table-fact .table>tbody>tr>td{padding-left: 15px;padding-right: 15px;}
 .table-fact .table>tbody>tr>td{color: #fff;font-size: 14px;}
-.table-fact .table select{width: 50px;height: 20px;display: inline-block;}
+.table-fact .table select{width: 50px;height: 20px;display: inline-block;padding: 0;}
 .total-t{background: #505559;}
 .btn-event-d{height: 50px;background: #2b73ab;line-height: 50px;font-size: 18px;color: #fff;text-transform: uppercase;padding: 0 50px;border:0;}
 .btn-event-d:hover,.btn-event-d:active,.btn-event-d:focus{background: #2b73ab;color: #fff;}
