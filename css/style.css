@@ -77,6 +77,8 @@
 .btn-event-d{height: 50px;background: #2b73ab;line-height: 50px;font-size: 18px;color: #fff;text-transform: uppercase;padding: 0 50px;border:0;}
 .btn-event-d:hover,.btn-event-d:active,.btn-event-d:focus{background: #2b73ab;color: #fff;}
 .cnt-btn-f{padding-top: 25px;padding-bottom: 25px;}
+/*Home*/
+.home-one{min-height: 600px;background: #000 url(../img/home-one.jpg) no-repeat;background-size: 100% 100%;}
 /*Subscripcion*/
 .subs-page{height: 205px;background: #eff0f0;}
 .subs-page h3{text-align: center;text-transform: uppercase;color: #18262f;font-size: 30px;margin-top: 40px;margin-bottom: 8px;}
@@ -87,6 +89,20 @@
 .subs-page .checkbox label{margin-right: 30px;color: #18262f;font-size: 14px;}
 .subs-page .checkbox label a{color: #18262f;text-decoration: underline;}
 .btn-susc:hover, .btn-susc:active, .btn-susc:focus{background: #596a75;outline: 0;color: #fff;}
+/*Modale de login y registro*/
+.modal-page .modal-dialog{width: 500px;margin-top: 200px;}
+.modal-page .modal-content{border:2px solid #858585;background: #243353;}
+.modal-page button.close{position: absolute;right: -12px;top: -15px;border:2px solid #6c6c6c;background: #444;z-index: 9;width: 26px;height: 26px;outline: 0;border-radius: 13px;opacity: 1;}
+.modal-page button.close span{color: #fff;line-height: 22px;display: inline-block;vertical-align: bottom;}
+.modal-page .modal-footer{border-top: 0;background: #1b253b;text-align: center;}
+.modal-page .modal-body{padding: 20px 45px 15px 45px}
+.title-m, .title-m-g{border-bottom: 2px solid #bdc2cc;font-size: 25px;color: #fff;padding-bottom: 12px;text-transform: uppercase;margin-bottom: 20px;}
+.title-m span{background: url(../img/icon-login.png) no-repeat;display: inline-block;vertical-align: top;width: 34px;height: 36px;margin-right: 10px;}
+.modal-page .form-control{height: 45px;border-radius: 0;outline: 0;color: #000;font-size: 16px;}
+.modal-page .checkbox{margin: 0;color: #fff;}
+a.ref-f{color: #fff;}
+.modal-page .btn-default{height: 48px;border:2px solid #fff;border-radius: 10px;background: none;padding: 0 80px;font-size: 16px;color: #fff;text-transform: uppercase;outline: 0;}
+.modal-page textarea{min-height: 200px!important;}
 /*Footer*/
 .footer-one{height: 380px;background: #18262f;}
 .footer-one h2{margin: 0;margin-top: 55px;}
